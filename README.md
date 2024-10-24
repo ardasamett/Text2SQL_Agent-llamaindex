@@ -14,8 +14,8 @@ This project provides a system that analyzes natural language queries and conver
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/SQL-Analysis-and-Intent-Detection.git
-   cd SQL-Analysis-and-Intent-Detection
+   git clone https://github.com/ardasamett/Text2SQL_Agent-llamaindex.git
+   cd Text2SQL_Agent-llamaindex
    ```
 
 2. Install the required Python packages:
