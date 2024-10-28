@@ -1,5 +1,8 @@
 # Text To SQL With LlamaIndex Workflow
 
+![](https://i.ibb.co/6HzW2MT/1729791420550.jpg)
+
+
 This project provides a system that analyzes natural language queries and converts them into SQL queries while performing security checks. It uses a Large Language Model (LLM) to determine user intent and assess the safety of SQL queries. Additionally, it presents query results and performance metrics to the user.
 
 ## Features
